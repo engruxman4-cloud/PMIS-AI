@@ -1,0 +1,5 @@
+{
+  "name": "PMBOK-AI Control Module",
+  "description": "A document-driven PMIS module for Schedule and Financial control (PMBOK 8th Ed) using Gemini AI.",
+  "requestFramePermissions": []
+}
